@@ -1,9 +1,9 @@
 // SITE SETTINGS — the basic facts about this website, in one place.
 // Change these first when you make the site your own.
 export const site = {
-  name: 'Vibe Code Cambodia',
-  tagline: 'Make a real website by talking to AI.',
+  name: 'English–Khmer Words',
+  tagline: 'Learn English words, one card at a time.',
   description:
-    'A hands-on workshop at New Hope Cambodia: build and publish a marketing website by describing it to an AI.',
-  contactEmail: 'dandelion@dandelion.art',
+    'Free English vocabulary cards with Khmer meanings. Pick a topic, guess the meaning, and tap to check.',
+  contactEmail: 'hello@example.com', // TODO: put your real email here
 };
